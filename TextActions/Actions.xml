@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<action-recipes>
+	<action id="com.subtlegradient.SelectStuff.select_itemizer_item.JSCocoa" category="com.subtlegradient.SelectStuff">
+		<class>JSCocoaLoader</class>
+		<title>Expand Selection to Item (JSCocoa)</title>
+		<key-equivalent>command shift b</key-equivalent>
+		<setup>
+			<script>expandSelectionToItem</script>
+			<undo_name>Expand Selection to Item</undo_name>
+			<!--<syntax-context>html *, css *, js *</syntax-context>-->
+		</setup>
+	</action>
+</action-recipes>

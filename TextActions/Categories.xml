@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<action-categories>
+	<category id="com.subtlegradient.SelectStuff" show="sub">
+		<title>Select Stuff</title>
+	</category>
+</action-categories> 
